@@ -23,3 +23,5 @@ Cambio 5: Cambio 2 en rama feature/1
 Cambio 11: Merge develop a pre-prod
 
 Cambio 12: Merge pre-prod a prod
+
+Cambio 13: Creación hotfix
