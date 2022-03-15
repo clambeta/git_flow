@@ -25,3 +25,5 @@ Cambio 11: Merge develop a pre-prod
 Cambio 16: Creación rama feature/n
 
 Cambio 17: Cambio 1 en rama feature/n
+
+Cambio 18: Merge de feature/n a develop
