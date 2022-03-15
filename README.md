@@ -27,3 +27,5 @@ Cambio 12: Merge pre-prod a prod
 Cambio 13: Creación hotfix
 
 Cambio 14: Cambio hotfix
+
+Cambio 15: Merge hotfix a prod
